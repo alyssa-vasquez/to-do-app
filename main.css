@@ -1,0 +1,71 @@
+@media screen and (max-width: 1024px) {
+  header.mdl-layout__header {
+    display: flex;
+  }
+}
+
+body {
+  background-color: rgb(233, 252, 217);
+  background: url(assets/image.jpg) center / cover;
+  height: 100vh;
+}
+
+.box {
+  background-color: white;
+  bottom: 5%;
+  height: 85%;
+  left: 10%;
+  opacity: .80;
+  position: absolute;
+  right: 10%
+  top: 3%;
+  width: 75%;
+}
+
+ header {
+   color: rgb(36, 135, 150);
+   margin-left: 28%;
+   justify-content: center;
+   text-align: center;
+   width: 50%;
+ }
+
+label {
+  color: rgb(36, 135, 150);
+  padding-left: 1%;
+  font-size: 18px;
+  font-weight: medium;
+  margin-right: 2px;
+}
+
+input {
+  color: rgb(36, 135, 150);
+}
+
+form {
+  position: relative;
+  margin-left: 32%;
+  padding-bottom: 20px;
+}
+
+.addButton {
+  background-color: rgb(36, 135, 150);
+  margin-right: 15%;
+  margin-top: -32px;
+}
+
+button {
+  color: rgb(36, 135, 150); 
+  float: right;
+  margin-right: 13%;
+}
+
+.dbutton {
+  color: blue;
+}
+
+Li {
+  color: rgb(36, 135, 150);
+  padding-top: 10px;
+  margin-left: 20%;
+}

@@ -14,12 +14,12 @@ body {
   background-color: white;
   bottom: 5%;
   height: 85%;
-  left: 10%;
+  left: 15%;
   opacity: .80;
   position: absolute;
-  right: 10%
+  right: 15%
   top: 3%;
-  width: 75%;
+  width: 70%;
 }
 
  header {
@@ -44,28 +44,26 @@ input {
 
 form {
   position: relative;
-  margin-left: 32%;
+  justify-content: center;
+  text-align: center;
   padding-bottom: 20px;
 }
 
 .addButton {
   background-color: rgb(36, 135, 150);
-  margin-right: 15%;
+  margin-right: 30%;
   margin-top: -32px;
 }
 
 button {
-  color: rgb(36, 135, 150); 
+  color: rgb(36, 135, 150);
   float: right;
-  margin-right: 13%;
+  margin-right: 47%;
 }
 
-.dbutton {
-  color: blue;
-}
 
 Li {
   color: rgb(36, 135, 150);
   padding-top: 10px;
-  margin-left: 20%;
+  margin-left: 35%;
 }
